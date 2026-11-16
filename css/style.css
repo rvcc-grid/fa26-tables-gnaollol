@@ -1,0 +1,29 @@
+body {
+  background-color: #6a4a3a;
+  margin: 0;
+}
+
+.hero {
+  background-color: #b3cf99;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  font-weight: 300;
+}
+
+caption {
+  text-align: center;
+  font-weight: 600;
+  padding-bottom: 1.2rem;
+}
